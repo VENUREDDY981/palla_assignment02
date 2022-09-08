@@ -10,3 +10,8 @@ The Patee House was built by **John Patée** as part of his Patee Town developme
 2. Head west toward E 7th St
 3. Head west toward E 7th 
 4. Turn right onto N Davis St
+
+- SEA LAKE Kansas City  Aqua
+- Kansas City Segway
+- LEGOLAND
+- Kansas City Zoo Park
