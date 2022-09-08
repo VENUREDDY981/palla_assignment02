@@ -28,6 +28,12 @@ This table provides information to visit nearest places
 | St Lious | Aqua Zoo | 3 hours|
 | Mozigo | Mozigo Lake | 20 min|
 
+***
+### Pithy Quotes
+> "Success to win race" - *APJ Kalam*
+
+> "Live  as if your were to die tommorrow" - *Gandhi*
+
 
 
 
