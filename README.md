@@ -34,6 +34,23 @@ This table provides information to visit nearest places
 
 > "Live  as if your were to die tommorrow" - *Gandhi*
 
+***
+### Code Fencing 
+> How to write to error log file in PHP ?
+[Question](https://stackoverflow.com/questions/15530039/how-to-write-to-error-log-file-in-php)
+
+```
+# display no errs to user
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+# log to file
+php_flag log_errors on
+php_value error_log /location/to/php_error.log
+```
+[Code Snippet](https://css-tricks.com/snippets/htaccess/php-error-logging/)
+
+
 
 
 
