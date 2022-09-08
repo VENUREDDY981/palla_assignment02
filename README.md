@@ -15,3 +15,19 @@ The Patee House was built by **John Patée** as part of his Patee Town developme
 - Kansas City Segway
 - LEGOLAND
 - Kansas City Zoo Park
+
+[AboutMe](AboutMe.md)
+
+***
+### Tables
+This table provides information to visit nearest places 
+| City | Tourist Place | Duration |
+|-------|----------------|----------|
+| Kansas City | Kansas Zoo | 20 Mins|
+| Maryville | NorthWest | 2 hours|
+| St Lious | Aqua Zoo | 3 hours|
+| Mozigo | Mozigo Lake | 20 min|
+
+
+
+
